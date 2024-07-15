@@ -1,0 +1,53 @@
+ul li{
+    padding:6px;
+    
+
+}
+ ul a{
+    text-decoration: none;
+}
+.flex_learn{
+    display: flex;
+    flex-wrap: wrap;
+    margin-top: 10px;
+    
+}
+.course{
+    margin-left: 10px;
+    padding: 20px;
+    background-color: #fff;
+    border-radius:5px ;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+.courseinner{
+    display: flex;
+    flex-wrap: wrap;
+    margin-bottom: 10px;
+} 
+.feedback{
+    
+        margin-left: 10px;
+        padding: 20px;
+        background-color: #fff;
+        border-radius:5px ;
+        box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    
+}
+.logout{
+    text-align:center;
+    
+    margin-left: 10px;
+    padding: 20px;
+    background-color: #fff;
+    border-radius:5px ;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+
+}
+.password{
+    margin-left: 10px;
+    padding: 20px;
+    background-color: #fff;
+    border-radius:5px ;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+
+}
